@@ -1,4 +1,7 @@
 ### Hi there 👋
+im Leon Hubrich aka Games_Crack 
+
+Im a Linux Enthusiast, Hobby C#, Java & Python Programmer.
 
 <!--
 **Games-Crack/Games-Crack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
