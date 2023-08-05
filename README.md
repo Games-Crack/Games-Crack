@@ -3,6 +3,8 @@ im Leon Hubrich aka Games_Crack
 
 Im a Linux Enthusiast, Hobby C#, Java & Python Programmer.
 
+Owner of the Minecraft Server [Wildcube.net](https://discord.gg/hAJ4Pd23A2)
+
 <!--
 **Games-Crack/Games-Crack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
