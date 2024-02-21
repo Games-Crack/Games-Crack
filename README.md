@@ -3,7 +3,17 @@ im Leon Hubrich aka Games_Crack
 
 Im a Linux Enthusiast, Hobby C#, Java & Python Programmer.
 
-Owner of the Minecraft Server [Wildcube.net](https://discord.gg/hAJ4Pd23A2)
+I Maintain:
+ - AUR Package for teleport-connect (i try)
+ - an inoffical Docker container for the Proxmox Backup Client
+ - an fork of an Anti NAG tool
+
+I May be slow to Respond.
+
+⚡ Fun fact: i cant stand a week of using Windows on any of my personal PC's
+
+📫 E-Mail: github@gamescrack.net
+
 
 <!--
 **Games-Crack/Games-Crack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
